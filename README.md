@@ -1,4 +1,4 @@
-tle_extraction
-==============
+least-squares-solver
+====================
 
-Used to extract TLE data from a streak in an image.
+Used to process a set of data to produce an N-order best fit line.
